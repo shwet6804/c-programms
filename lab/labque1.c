@@ -1,0 +1,1 @@
+//WAP to check whether given equation (ax^2+bx+c=0) has real or real and equal or imaginary roots by taking value of a,b and c.
