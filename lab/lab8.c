@@ -9,7 +9,7 @@ int main()
         scanf("%d",&a[i]);
         int value;
         scanf("%d",&value);
-        for (int i = 0; i <n; i++)
+        for (int i = 0; i<n; i++)
         {
             if (value==a[i])
             {
